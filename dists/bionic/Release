@@ -1,19 +1,19 @@
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: bionic
-Date: Mon, 12 Nov 2018 19:38:02 UTC
+Date: Mon, 12 Nov 2018 21:37:11 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for Mycroft-desktop
 MD5Sum:
- d80358e8f0800c8c61d809110c5957e3 1045 main/binary-amd64/Packages
- 6fc8fc874d1746620f68a7a7fc0f2f4a 600 main/binary-amd64/Packages.gz
+ 189432277193d677dcbc2c1e1d275a80 1063 main/binary-amd64/Packages
+ 7764a8044e18337de978cd88bed3d864 607 main/binary-amd64/Packages.gz
  4d4fb4e47ecc7dd77d14eae4a0b8abbd 131 main/binary-amd64/Release
 SHA1:
- 36459d5e20f52a96f2112e77e994b68e3b538367 1045 main/binary-amd64/Packages
- c4eb412c27202a3eb03ee11a5d122f37dc6ac53f 600 main/binary-amd64/Packages.gz
+ 9bd7d4637be6527f6b417d134d0e84fffcc24e7d 1063 main/binary-amd64/Packages
+ e3cb91278fb290a40bfc33300bcee4db50c845f5 607 main/binary-amd64/Packages.gz
  7a15bba7f7ad2d927fd3c6f52c47d9d71202bfff 131 main/binary-amd64/Release
 SHA256:
- 871d1734bc6cd0d62b544a43cf1e972f05ecc69b2e957c9ed8b6cb8c5b14d0cb 1045 main/binary-amd64/Packages
- 07b6ff9daa7b16872ae5e7bad3d3888c852e342db0877a375995e93adf1eedba 600 main/binary-amd64/Packages.gz
+ 5ecb8e896ec4ba5520790f969a6af167445437877b42dd3f8e4f470a26a2d95d 1063 main/binary-amd64/Packages
+ bd91e4783a11f23ff005ab6f66eba6ae7d9774117d1f2f82df18da0e072653f2 607 main/binary-amd64/Packages.gz
  edc08c61595f1fd08309d4b6891e7ac102c7b92e8de70c6568be6b0da7bfd0de 131 main/binary-amd64/Release

@@ -13,18 +13,18 @@ Description: mimic
 Depends: pcre2-utils
 
 Package: mycroft-core
-Version: 18.8.5+1542022786
+Version: 18.8.5+1542056664
 Architecture: amd64
 Maintainer: Mycroft AI <devs@mycroft.ai>
 Installed-Size: 136482
-Depends: perl, jq, portaudio19-dev, libglib2.0-0, flac, mpg123, pulseaudio, git, python3-dev, libjpeg-dev, libfann-dev (>= 2.2.0), packagekit
+Depends: perl, jq, portaudio19-dev, libglib2.0-0, flac, mpg123, pulseaudio, git, python3-dev, libjpeg-dev, libfann-dev (>= 2.2.0), packagekit, mimic (>= 1.2.0)
 Replaces: msm, mycroft-core
 Priority: extra
 Section: python
-Filename: pool/main/m/mycroft-core/mycroft-core_18.8.5+1542022786_amd64.deb
-Size: 48807656
-SHA256: fa0df9d4a5b0eda5f60eda7beafe8889bf988334c4fdfc9eed596d0a1f0e9f75
-SHA1: 5ea8bc608c9ee27ff636202e09a759fa0bd18f95
-MD5sum: 7bb1e93308a3133897516851c41c4233
+Filename: pool/main/m/mycroft-core/mycroft-core_18.8.5+1542056664_amd64.deb
+Size: 48812536
+SHA256: 4d6df2591014b2f2dffa99e5fa923a5584e177b9e316478bb764f0b3f67725d5
+SHA1: 789afd523bdc6b8b97d27c88c65da12f75215dce
+MD5sum: db8423fd1fec11d520468f7884e100b3
 Description: mycroft-core
 

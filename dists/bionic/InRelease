@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: bionic
-Date: Mon, 12 Nov 2018 19:38:02 UTC
+Date: Mon, 12 Nov 2018 21:37:11 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for Mycroft-desktop
 MD5Sum:
- d80358e8f0800c8c61d809110c5957e3 1045 main/binary-amd64/Packages
- 6fc8fc874d1746620f68a7a7fc0f2f4a 600 main/binary-amd64/Packages.gz
+ 189432277193d677dcbc2c1e1d275a80 1063 main/binary-amd64/Packages
+ 7764a8044e18337de978cd88bed3d864 607 main/binary-amd64/Packages.gz
  4d4fb4e47ecc7dd77d14eae4a0b8abbd 131 main/binary-amd64/Release
 SHA1:
- 36459d5e20f52a96f2112e77e994b68e3b538367 1045 main/binary-amd64/Packages
- c4eb412c27202a3eb03ee11a5d122f37dc6ac53f 600 main/binary-amd64/Packages.gz
+ 9bd7d4637be6527f6b417d134d0e84fffcc24e7d 1063 main/binary-amd64/Packages
+ e3cb91278fb290a40bfc33300bcee4db50c845f5 607 main/binary-amd64/Packages.gz
  7a15bba7f7ad2d927fd3c6f52c47d9d71202bfff 131 main/binary-amd64/Release
 SHA256:
- 871d1734bc6cd0d62b544a43cf1e972f05ecc69b2e957c9ed8b6cb8c5b14d0cb 1045 main/binary-amd64/Packages
- 07b6ff9daa7b16872ae5e7bad3d3888c852e342db0877a375995e93adf1eedba 600 main/binary-amd64/Packages.gz
+ 5ecb8e896ec4ba5520790f969a6af167445437877b42dd3f8e4f470a26a2d95d 1063 main/binary-amd64/Packages
+ bd91e4783a11f23ff005ab6f66eba6ae7d9774117d1f2f82df18da0e072653f2 607 main/binary-amd64/Packages.gz
  edc08c61595f1fd08309d4b6891e7ac102c7b92e8de70c6568be6b0da7bfd0de 131 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEErnjHKIkORCq1a+/FMU7M2I5wZjYFAlvp1p0ACgkQMU7M2I5w
-ZjaaCQv/RTGP4saJ7sIpf+NkjpoxPq/Wvu1XNy50eRxh+WxlrwIP3YTyjdeX0d7V
-GqHF32NDzxrHfcoqinESqCRPEn5oQpxLytUXkzHnkg4GVU44uqzlHpYXu+/gPE4n
-EjdwBIMAS/M8SRBANaHYQFny1fPDj6T927aoSwImw1bJTLzIvH1yY5a/eduKekeY
-mQ7r75YfSU+aZ/Mr0fSOTaI+qoyLM1TnXSRdis0Ky3804Ib70fGSZL4+szZW8U6Q
-1kUEhx72Q2oFgmG1boNcPn/5jTKklUjDdYTPvxoTy2plC5Ph0zmvh+9s0Ci1AZBz
-kY4w8cZxuJOYZY4gSeH9/Y5tVIgTNoRepqfSBmc7GuItCRLwvKGR9VL4AVJ92jW5
-COtMKGQ8KTOtngk3gY4DkpmgzPLUZeDQavZqk8wSDZCGjnZ6GaDpYXjUHpFtUvBW
-w9spZeKrq+hMBEVQpBcsYjhbAA7R/8ABACealZgwbMDttfMEBJmfAGEQDZNZstAG
-KsS3LJO/
-=cJwp
+iQGzBAEBCgAdFiEErnjHKIkORCq1a+/FMU7M2I5wZjYFAlvp8ooACgkQMU7M2I5w
+ZjZRyQv/Y1gcRlCgmONmLomY+JrGxKD3DZAsZxB9e2U/Lq5Eob/sC91hZj3QX2vA
+OSNQCH76t7wXbLR+4hDk+6xNfJBUZwxHizzg2CM2h6LPaybHzAiabbQHI/heNdRx
+GDzdnSpJjAKZugXuPz7Db+ajk/eS5GvRrpG9yZotKOvandkNWEmMRk4rboJ7AOJb
+wjD9rlLiHmnhShMyJQQwSg7Vy6DAXmGwadYjGXS+GNPu6lr5jVoVU4UybZUoWvi9
+DT5wjs1zp3qwQI2qUoSJN/2Pt9STi1a0NY9jTwEMZnWQXkThmb3NwpgEZ/ryMpch
+rL3RNxkM37FEag6Y5Xjt8JJCgoV44ahNOuo0V/GyOARJA0RMcQZQJPf6jWBNcD2q
+qTW7Kn/jQvZjaHJ8ZaH+ia9+AvJRZd+t11bTVx8XSL4iaa9rdfynD77dcthTxAdZ
+dDVZQKHt1trfb+zABEUPGPWqTetjruvFJaeMitk04+D2i45qjFahLEAlGjDPRRRd
+2GxwbUul
+=91Ws
 -----END PGP SIGNATURE-----
