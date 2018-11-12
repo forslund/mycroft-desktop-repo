@@ -1,0 +1,29 @@
+Package: mimic
+Version: 1.2.0.2
+Architecture: amd64
+Maintainer: Arron Atchison <arron.atchison@mycroft.ai>
+Priority: optional
+Section: base
+Filename: pool/main/m/mimic/mimic_1.2.0.2_amd64.deb
+Size: 698
+SHA256: 2b96c29edfc1292621a2dffbf610fa7d76ab05d887d0f5c1da7c79d61d327f24
+SHA1: 730613f797177607a1b33e6b832da189df200cd2
+MD5sum: 9171845d210d62d3c89e376d9a90775f
+Description: mimic
+
+Package: mycroft-core
+Version: 18.8.5+1542022786
+Architecture: amd64
+Maintainer: Mycroft AI <devs@mycroft.ai>
+Installed-Size: 136482
+Depends: perl, jq, portaudio19-dev, libglib2.0-0, flac, mpg123, pulseaudio, git, python3-dev, libjpeg-dev, libfann-dev (>= 2.2.0), packagekit
+Replaces: msm, mycroft-core
+Priority: extra
+Section: python
+Filename: pool/main/m/mycroft-core/mycroft-core_18.8.5+1542022786_amd64.deb
+Size: 48807656
+SHA256: fa0df9d4a5b0eda5f60eda7beafe8889bf988334c4fdfc9eed596d0a1f0e9f75
+SHA1: 5ea8bc608c9ee27ff636202e09a759fa0bd18f95
+MD5sum: 7bb1e93308a3133897516851c41c4233
+Description: mycroft-core
+
