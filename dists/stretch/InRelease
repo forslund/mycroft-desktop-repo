@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Mycroft-desktop
+Label: Mycroft-desktop
+Codename: stretch
+Date: Sun, 11 Nov 2018 13:39:56 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for Mycroft-desktop
+MD5Sum:
+ 86b2166bb91b93556bc1151890df09ee 997 main/binary-amd64/Packages
+ 4ea4787c738f7eaac54c96a77c306438 584 main/binary-amd64/Packages.gz
+ 4d4fb4e47ecc7dd77d14eae4a0b8abbd 131 main/binary-amd64/Release
+SHA1:
+ 101b2314327f5abd636b2247f89602ddd12ff37d 997 main/binary-amd64/Packages
+ ce0566dfde03f2686202701d83da07beaf0b71b6 584 main/binary-amd64/Packages.gz
+ 7a15bba7f7ad2d927fd3c6f52c47d9d71202bfff 131 main/binary-amd64/Release
+SHA256:
+ d4c8c29172443dd8f6e157d3d18730f210ac27b59d7f589dc0e57e37b4db8022 997 main/binary-amd64/Packages
+ 6f01c295325aaf40f5711eea378780e5a182a7986421d867802c3fcf49b2a6fc 584 main/binary-amd64/Packages.gz
+ edc08c61595f1fd08309d4b6891e7ac102c7b92e8de70c6568be6b0da7bfd0de 131 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEErnjHKIkORCq1a+/FMU7M2I5wZjYFAlvoMS0ACgkQMU7M2I5w
+ZjahaAv/Y6MT/VImU9dZ6Zeni7YGxjat7zq0qeKxHaBGVpCUJNU/5XUCt6rPht9l
+KzC/VWDbaIDb0T4ASa/EP8ttHe7GkEke1DteU1QBthDriGKjgHesFNzLH5RQANOa
+sk/MiJePZLAenhjVvLzQcfGB95+QXk593LZPTZA9Vd8ZxpR7KqhZZsnIuKRuCOgs
+FXeeNJ9yoDq/kdGTV2nfj8LH9cuc9LOnz6mbDBt+tpsQfujfnIKDbTacPavmNye4
+kPcVDv8cficM17edXiQ6G3bFMSrUlmfo9zfz4d9bW+tkoqaaxgIbTTrPUnZJZc6J
+EmjdiZAh8UMIWQjeAM0SCIgKaK3uDOsOXhrMlW8ZU8xwcoN7FOfWPijFuYS31BeQ
+w1usKxnqn0BtS8VrUjol9JfNT3pS/x5/yExuitXZr79DK35kQBuWcXHd3XHip9tz
+egr+gVVAhIztaVUwGT0eGSijhl4plGdy55xe/lhMDfk1qDDyxirWPFCK2hnqC+GM
+xb4jkWk7
+=GHMa
+-----END PGP SIGNATURE-----
