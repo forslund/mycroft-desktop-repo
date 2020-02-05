@@ -1,0 +1,15 @@
+Origin: Mycroft-desktop
+Label: Mycroft-desktop
+Codename: stretch
+Architectures: amd64
+Components: main
+Description: Apt repository for Mycroft-desktop
+SignWith: mycroft-desktop
+
+Origin: Mycroft-desktop
+Label: Mycroft-desktop
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Apt repository for Mycroft-desktop
+SignWith: mycroft-desktop
