@@ -1,0 +1,5 @@
+Component: main
+Origin: Mycroft-desktop
+Label: Mycroft-desktop
+Architecture: armhf
+Description: Apt repository for Mycroft-desktop

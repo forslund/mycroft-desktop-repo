@@ -1,0 +1,14 @@
+Package: mimic
+Version: 1.2.0.2+1559651054
+Architecture: arm64
+Maintainer: Arron Atchison <arron.atchison@mycroft.ai>
+Priority: optional
+Section: base
+Filename: pool/main/m/mimic/mimic_1.2.0.2+1559651054_arm64.deb
+Size: 86453240
+SHA256: 31fa849ac52b66c6eb87d88db007368d7ddc149c626bff5c225061053a0113c6
+SHA1: c5966aca84dd0c5e06631b5f1cdf69aeabbe2595
+MD5sum: c042bf725ac04d8479442770fc39b7ae
+Description: mimic
+Depends: pcre2-utils
+

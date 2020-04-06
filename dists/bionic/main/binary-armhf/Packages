@@ -1,0 +1,14 @@
+Package: mimic
+Version: 1.3.0.1
+Architecture: armhf
+Maintainer: Arron Atchison <arron.atchison@mycroft.ai>
+Priority: optional
+Section: base
+Filename: pool/main/m/mimic/mimic_1.3.0.1_armhf.deb
+Size: 85345434
+SHA256: 27d550522dfdb32e8c4116fb91afc7870f0675beeae592caa8fe1a020c649f52
+SHA1: e28d3485a3e889ac5c797bafd9c8b3ea01335874
+MD5sum: 177d5998d8d5c25b710fc6079165f260
+Description: mimic
+Depends: pcre2-utils
+

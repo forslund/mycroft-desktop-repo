@@ -1,0 +1,5 @@
+Component: main
+Origin: Mycroft-desktop
+Label: Mycroft-desktop
+Architecture: arm64
+Description: Apt repository for Mycroft-desktop

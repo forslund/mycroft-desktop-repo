@@ -1,19 +1,37 @@
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: bionic
-Date: Wed, 05 Feb 2020 08:01:25 UTC
-Architectures: amd64
+Date: Mon, 06 Apr 2020 11:36:28 UTC
+Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop
 MD5Sum:
  9195d06f5fc6672d0bfa8a9728660993 1041 main/binary-amd64/Packages
  49bccae42bacc8236ca5d3ad1a37c4f9 602 main/binary-amd64/Packages.gz
  4d4fb4e47ecc7dd77d14eae4a0b8abbd 131 main/binary-amd64/Release
+ 26b886a0c41cf8c0e39333f25fa33f4c 431 main/binary-arm64/Packages
+ a7cb34630b1806885bcff5deecd9292b 324 main/binary-arm64/Packages.gz
+ 6c824790fa59a9e476ede20c1fb1c97d 131 main/binary-arm64/Release
+ 1b68716c4d11a47c3216b83f14d622a3 409 main/binary-armhf/Packages
+ 7edd374c53b535fdcfc8926f225ab0eb 316 main/binary-armhf/Packages.gz
+ d5303c6ed43b406c4099ac1ed47ffa02 131 main/binary-armhf/Release
 SHA1:
  89ec7d176e91965c64865aad1dd2ab2c817a4273 1041 main/binary-amd64/Packages
  88d0946afd8959147dd97fe0155f19a08d232e44 602 main/binary-amd64/Packages.gz
  7a15bba7f7ad2d927fd3c6f52c47d9d71202bfff 131 main/binary-amd64/Release
+ e2405445b1d1648134e7e21f63ab629cc527a6e7 431 main/binary-arm64/Packages
+ 7fd3fdae5b89b3f504467581cbe0b40d2fa8d320 324 main/binary-arm64/Packages.gz
+ 696c1c7cc281cb2785b13214d26c18dc0f8aef94 131 main/binary-arm64/Release
+ 3f6771f591e6915acb77283b67e8b4f5c919deb3 409 main/binary-armhf/Packages
+ 2e0659b9cd61c37933d5405d99bb201a2047d5bc 316 main/binary-armhf/Packages.gz
+ 7f613e2258e08e8d6785cf2561d3a9b489d89b3d 131 main/binary-armhf/Release
 SHA256:
  ce0179f454f9b40db5f16df7da844d137feb5d9903e9e743cfb88f08d6b28f9f 1041 main/binary-amd64/Packages
  3ff67e1bf59370664a6662cdfa43c3412c98fac41ec0951b56cf70cd5bcdf1ac 602 main/binary-amd64/Packages.gz
  edc08c61595f1fd08309d4b6891e7ac102c7b92e8de70c6568be6b0da7bfd0de 131 main/binary-amd64/Release
+ 786bacbd0f2b6416ee29651563cd1189cc71a971bde7a14e4bb1728aafb61b97 431 main/binary-arm64/Packages
+ 0d77347dd692e67cc2f7fa109b34ea10cdae2e3d5f88c8b21bc82ab38655547b 324 main/binary-arm64/Packages.gz
+ 327e45afee2608defca6fefe8bdcfee155cd9ea9e0a4f17eb4942a436a1afb7c 131 main/binary-arm64/Release
+ 3dd083747336b5ceaa6c9bc95225af0a6cd23e42b58f95cc5d96e1bc9f80bff1 409 main/binary-armhf/Packages
+ 2fde990c1d212e16192e4b48186b214c739dd40d150a273c07ee68fbd10f106a 316 main/binary-armhf/Packages.gz
+ 77bbea9ced79dddabf2d6695de5b9afa6798d2574342a9874af68b5d9c9cdc97 131 main/binary-armhf/Release

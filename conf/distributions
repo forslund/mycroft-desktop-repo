@@ -9,7 +9,7 @@ SignWith: mycroft-desktop
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: bionic
-Architectures: amd64
+Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop
 SignWith: mycroft-desktop
