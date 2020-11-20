@@ -13,3 +13,11 @@ Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop
 SignWith: mycroft-desktop
+
+Origin: Mycroft-desktop
+Label: Mycroft-desktop
+Codename: focal
+Architectures: amd64 arm64 armhf
+Components: main
+Description: Apt repository for Mycroft-desktop
+SignWith: mycroft-desktop

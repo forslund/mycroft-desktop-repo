@@ -1,0 +1,16 @@
+Package: mycroft-core
+Version: 20.8.0+1605218360
+Architecture: arm64
+Maintainer: Mycroft AI <devs@mycroft.ai>
+Installed-Size: 98082
+Depends: perl, jq, portaudio19-dev, libglib2.0-0, flac, mpg123, pulseaudio, git, python3-dev, libjpeg-dev, libfann-dev (>= 2.2.0), packagekit, mimic (>= 1.2.0)
+Replaces: msm, mycroft-core
+Priority: extra
+Section: python
+Filename: pool/main/m/mycroft-core/mycroft-core_20.8.0+1605218360_arm64.deb
+Size: 42851904
+SHA256: 708b6ed198feda4092f15cffde361e62cf5145b9bb54ba9d29ceadcf40c33c8c
+SHA1: b27d7d17dca8daaca23aa13b8a964e182a32a166
+MD5sum: bde0fd18d781549e14a0b576d7a0bcc5
+Description: mycroft-core
+
