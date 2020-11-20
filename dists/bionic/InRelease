@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: bionic
-Date: Mon, 06 Apr 2020 11:36:28 UTC
+Date: Fri, 20 Nov 2020 17:38:24 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop
@@ -12,8 +12,8 @@ MD5Sum:
  9195d06f5fc6672d0bfa8a9728660993 1041 main/binary-amd64/Packages
  49bccae42bacc8236ca5d3ad1a37c4f9 602 main/binary-amd64/Packages.gz
  4d4fb4e47ecc7dd77d14eae4a0b8abbd 131 main/binary-amd64/Release
- 26b886a0c41cf8c0e39333f25fa33f4c 431 main/binary-arm64/Packages
- a7cb34630b1806885bcff5deecd9292b 324 main/binary-arm64/Packages.gz
+ 47804900f74920a88ef74ed2dec8b8dd 1062 main/binary-arm64/Packages
+ ed23ad18194bd134275e69568ce97310 610 main/binary-arm64/Packages.gz
  6c824790fa59a9e476ede20c1fb1c97d 131 main/binary-arm64/Release
  1b68716c4d11a47c3216b83f14d622a3 409 main/binary-armhf/Packages
  7edd374c53b535fdcfc8926f225ab0eb 316 main/binary-armhf/Packages.gz
@@ -22,8 +22,8 @@ SHA1:
  89ec7d176e91965c64865aad1dd2ab2c817a4273 1041 main/binary-amd64/Packages
  88d0946afd8959147dd97fe0155f19a08d232e44 602 main/binary-amd64/Packages.gz
  7a15bba7f7ad2d927fd3c6f52c47d9d71202bfff 131 main/binary-amd64/Release
- e2405445b1d1648134e7e21f63ab629cc527a6e7 431 main/binary-arm64/Packages
- 7fd3fdae5b89b3f504467581cbe0b40d2fa8d320 324 main/binary-arm64/Packages.gz
+ 43baf00f9bbf6a176a0d80f978cf6278dc28e2e9 1062 main/binary-arm64/Packages
+ 1fa6fe3604942c901a29feb18331763ae0ef4f51 610 main/binary-arm64/Packages.gz
  696c1c7cc281cb2785b13214d26c18dc0f8aef94 131 main/binary-arm64/Release
  3f6771f591e6915acb77283b67e8b4f5c919deb3 409 main/binary-armhf/Packages
  2e0659b9cd61c37933d5405d99bb201a2047d5bc 316 main/binary-armhf/Packages.gz
@@ -32,23 +32,23 @@ SHA256:
  ce0179f454f9b40db5f16df7da844d137feb5d9903e9e743cfb88f08d6b28f9f 1041 main/binary-amd64/Packages
  3ff67e1bf59370664a6662cdfa43c3412c98fac41ec0951b56cf70cd5bcdf1ac 602 main/binary-amd64/Packages.gz
  edc08c61595f1fd08309d4b6891e7ac102c7b92e8de70c6568be6b0da7bfd0de 131 main/binary-amd64/Release
- 786bacbd0f2b6416ee29651563cd1189cc71a971bde7a14e4bb1728aafb61b97 431 main/binary-arm64/Packages
- 0d77347dd692e67cc2f7fa109b34ea10cdae2e3d5f88c8b21bc82ab38655547b 324 main/binary-arm64/Packages.gz
+ 3b9cddeb6d8b7e01428ff7aff7eece306ed737099b38304170bb79a0895ff54d 1062 main/binary-arm64/Packages
+ 5e2de668cb607068fefada3995e316cac5fa93ce439b8ab2aa917e036059ba8c 610 main/binary-arm64/Packages.gz
  327e45afee2608defca6fefe8bdcfee155cd9ea9e0a4f17eb4942a436a1afb7c 131 main/binary-arm64/Release
  3dd083747336b5ceaa6c9bc95225af0a6cd23e42b58f95cc5d96e1bc9f80bff1 409 main/binary-armhf/Packages
  2fde990c1d212e16192e4b48186b214c739dd40d150a273c07ee68fbd10f106a 316 main/binary-armhf/Packages.gz
  77bbea9ced79dddabf2d6695de5b9afa6798d2574342a9874af68b5d9c9cdc97 131 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEErnjHKIkORCq1a+/FMU7M2I5wZjYFAl6LFD0ACgkQMU7M2I5w
-ZjYVBQwArqRs7tJe1oEVVfoJqi8TrnMN4kbFahsg3HtTRRYvv/K6CFo6oxmwh5bJ
-YsO97xeGPLhIXkRQGiptekxRFH2yOhEHIqpCGl8IWn0HrIn3OOLTDkpMJKMzceg5
-0GsFMyt1FTI1BS5Ye9NIT0qkKOVjAU0n7han+g4BTnA+MFjbzRDmKpybyrrzlhnT
-qnmWw/K6U5dgPu3vhCl5h56fq6og7mrfv0jOlHOoAOXjlAueBEyL2o6yzpIbum1X
-ZtDfdt/4KeOjXtr0fqCBRVvhTjZbBXOitsN+7ARovn+0XFbyU4j0qLzpAhgsJQEs
-/Pw59gyvWun/ooc3ZiG5bV+FxGCcD+oh38yKIH4YrMVsqAv8Vrroy/GiQFQ1ANgh
-pV6kiNEKqUkDrMPU+imow7JOaGCmBMAhG/ESqGYX+3pDlcolAbJVp/zsIKC2jBRx
-I0GcwmzuVxTgnkbnTuUvpJ04mVz1ZMV9dcpSESoqpd4qZ7mb9gaXcyvanSFxbpKP
-Z/Xg+3gQ
-=s3FU
+iQGzBAEBCgAdFiEErnjHKIkORCq1a+/FMU7M2I5wZjYFAl+3/xEACgkQMU7M2I5w
+ZjYpMQwAuWRGm6C3ahlaMeuZarfbohN+oRen30g4PIUjWsX3Gt0HrSeoc17oBnIL
+VLG/X88N5/HWVVILcCLudntOpSJTZJ4A8KUrozBWY5uYWP7yP/tlW/rFKqsP9z7H
+1lW/vYEDien4L+42lENcyRr6+dYjjkj44uJN4zHcKJm2YGGnyf3Sx++TAyBgIQ19
+3ZB6SQywpdG/RvJ7Udz/B+op0thSQIELGtPlHmBVvetK5Xy39PBXTm+nubJhXClw
+Gc5VhbVhiu0rFMmUWGmcB2mA9bnRyaEvVOpgHb/SBWcWdem6RD/bbvbB3qGAxMt7
+jZFEBsJo9mh7Ug8ykNElVQ4EshdHzhbHLcx1U4sJq0dkxYvaD5x2pkgq7+SIeWFa
+shWGhTrbomNbXCwkWMi0eQmX9a5rRTD4jLRY2QDTLe/+A49OJmp0diu/yUd3zHqj
+Pzrqd88gbVVRF1mGrVFPPY3PQySrIHzG0R2JN5lRfWbVzgFz0eZMvy/b8DpKhSfJ
+Osz46UzL
+=xiv2
 -----END PGP SIGNATURE-----
