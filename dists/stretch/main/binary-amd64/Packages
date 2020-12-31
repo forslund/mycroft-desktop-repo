@@ -27,3 +27,17 @@ SHA1: f0b8b8a305cc75aaae0e59f7d275b7f930499163
 MD5sum: 2c46117cf0a6ad79d8c3ae9ec51189f5
 Description: mycroft-core
 
+Package: mycroft-precise
+Version: 0.2
+Architecture: amd64
+Maintainer: Åke Forslund
+Installed-Size: 12
+Priority: optional
+Section: main
+Filename: pool/main/m/mycroft-precise/mycroft-precise_0.2_amd64.deb
+Size: 1952
+SHA256: e6a0865045fb525673a7bd2322dc1a39f617ecc660faaddbb57720bd63596f32
+SHA1: 35f86b4c66f76f53fd52b0ec75e66bc64fe8df17
+MD5sum: b92d850daa96d557cbd89483072f2296
+Description: Mycroft Ai Precise Wakeword engine
+

@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: bionic
-Date: Fri, 20 Nov 2020 17:38:24 UTC
+Date: Thu, 31 Dec 2020 14:54:51 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop
 MD5Sum:
- 9195d06f5fc6672d0bfa8a9728660993 1041 main/binary-amd64/Packages
- 49bccae42bacc8236ca5d3ad1a37c4f9 602 main/binary-amd64/Packages.gz
+ 33aaa16cb874c1b9d978939be1eac57d 1466 main/binary-amd64/Packages
+ 9a98358c5d829c8bf606916f3ecc1d6a 770 main/binary-amd64/Packages.gz
  4d4fb4e47ecc7dd77d14eae4a0b8abbd 131 main/binary-amd64/Release
  47804900f74920a88ef74ed2dec8b8dd 1062 main/binary-arm64/Packages
  ed23ad18194bd134275e69568ce97310 610 main/binary-arm64/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  7edd374c53b535fdcfc8926f225ab0eb 316 main/binary-armhf/Packages.gz
  d5303c6ed43b406c4099ac1ed47ffa02 131 main/binary-armhf/Release
 SHA1:
- 89ec7d176e91965c64865aad1dd2ab2c817a4273 1041 main/binary-amd64/Packages
- 88d0946afd8959147dd97fe0155f19a08d232e44 602 main/binary-amd64/Packages.gz
+ 2f58a1d6a7c011fc58adbc41575852be16a3c9a4 1466 main/binary-amd64/Packages
+ d3dd96420886ce5dc39fde85ce8f2742faecf732 770 main/binary-amd64/Packages.gz
  7a15bba7f7ad2d927fd3c6f52c47d9d71202bfff 131 main/binary-amd64/Release
  43baf00f9bbf6a176a0d80f978cf6278dc28e2e9 1062 main/binary-arm64/Packages
  1fa6fe3604942c901a29feb18331763ae0ef4f51 610 main/binary-arm64/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  2e0659b9cd61c37933d5405d99bb201a2047d5bc 316 main/binary-armhf/Packages.gz
  7f613e2258e08e8d6785cf2561d3a9b489d89b3d 131 main/binary-armhf/Release
 SHA256:
- ce0179f454f9b40db5f16df7da844d137feb5d9903e9e743cfb88f08d6b28f9f 1041 main/binary-amd64/Packages
- 3ff67e1bf59370664a6662cdfa43c3412c98fac41ec0951b56cf70cd5bcdf1ac 602 main/binary-amd64/Packages.gz
+ 1b7da9f988bfcf1b4a12337c5742bf475869db05fc2c13f4d88234daf4ca116a 1466 main/binary-amd64/Packages
+ 7009f98fdf4d939221a42e869f73daad7716e950e9de371d15205704a36135b8 770 main/binary-amd64/Packages.gz
  edc08c61595f1fd08309d4b6891e7ac102c7b92e8de70c6568be6b0da7bfd0de 131 main/binary-amd64/Release
  3b9cddeb6d8b7e01428ff7aff7eece306ed737099b38304170bb79a0895ff54d 1062 main/binary-arm64/Packages
  5e2de668cb607068fefada3995e316cac5fa93ce439b8ab2aa917e036059ba8c 610 main/binary-arm64/Packages.gz
@@ -40,15 +40,15 @@ SHA256:
  77bbea9ced79dddabf2d6695de5b9afa6798d2574342a9874af68b5d9c9cdc97 131 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEErnjHKIkORCq1a+/FMU7M2I5wZjYFAl+3/xEACgkQMU7M2I5w
-ZjYpMQwAuWRGm6C3ahlaMeuZarfbohN+oRen30g4PIUjWsX3Gt0HrSeoc17oBnIL
-VLG/X88N5/HWVVILcCLudntOpSJTZJ4A8KUrozBWY5uYWP7yP/tlW/rFKqsP9z7H
-1lW/vYEDien4L+42lENcyRr6+dYjjkj44uJN4zHcKJm2YGGnyf3Sx++TAyBgIQ19
-3ZB6SQywpdG/RvJ7Udz/B+op0thSQIELGtPlHmBVvetK5Xy39PBXTm+nubJhXClw
-Gc5VhbVhiu0rFMmUWGmcB2mA9bnRyaEvVOpgHb/SBWcWdem6RD/bbvbB3qGAxMt7
-jZFEBsJo9mh7Ug8ykNElVQ4EshdHzhbHLcx1U4sJq0dkxYvaD5x2pkgq7+SIeWFa
-shWGhTrbomNbXCwkWMi0eQmX9a5rRTD4jLRY2QDTLe/+A49OJmp0diu/yUd3zHqj
-Pzrqd88gbVVRF1mGrVFPPY3PQySrIHzG0R2JN5lRfWbVzgFz0eZMvy/b8DpKhSfJ
-Osz46UzL
-=xiv2
+iQGzBAEBCgAdFiEEj6zH4HNa/2SUFHneZ3azPalyr9EFAl/t5jsACgkQZ3azPaly
+r9G5RQwAz4+9pKsu/Mb+PEYBe6p6TQ7hHA0G4+nMoUpEct3NI5JgIfz5v9BBYWAJ
+vXeJCTpjmqYOj314snCPcBlw4mvixVOBZTe8CYSzUajemRFkNzO02vMbOxl+1Xbo
+wkOM8AUEcPs/qHGqBuOTug93tk5/icCZYJVfJjCWcCWqGf+bqWYZ3lEYGcsoKwKL
+MYvydlC497wwRiLSAToJGsNvsqZC3BHTpor812xGvyU0FxxLAOt7KQ3IwMMJ7XWn
+nTGquVDx94KmbTTIR/UePauK9dtQGBpBQ7ZhgYSuxEhEU1E9UnZBkMcYFpR74TzM
+/N5Lpwk0P+kX/r9yFfd7ngpKdDmJC/sYvmq2N2A4zCCgGAATrkEIEdDb28Zvo3Af
+XpEDGv7GcYwyvxTSpjg5bwx98+NMKf405RmBPnKYN8m/kUXL9GrxN0eWPBY0KB9J
+kLNH9I6rOo0tNH3Kg4aKwIcbjXnkGWbUNybIMW8woeENVGpCoSQQpcURlqO5FQv+
+uAX5LbsN
+=RJRL
 -----END PGP SIGNATURE-----
