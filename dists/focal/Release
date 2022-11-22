@@ -1,7 +1,7 @@
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: focal
-Date: Thu, 31 Dec 2020 14:54:40 UTC
+Date: Tue, 22 Nov 2022 20:02:29 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop

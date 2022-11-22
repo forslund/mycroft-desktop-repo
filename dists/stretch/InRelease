@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: stretch
-Date: Thu, 31 Dec 2020 14:54:59 UTC
+Date: Tue, 22 Nov 2022 20:02:34 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for Mycroft-desktop
@@ -22,15 +22,15 @@ SHA256:
  edc08c61595f1fd08309d4b6891e7ac102c7b92e8de70c6568be6b0da7bfd0de 131 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEj6zH4HNa/2SUFHneZ3azPalyr9EFAl/t5kQACgkQZ3azPaly
-r9FyNgv/R2/mUjkVsNO+ldmjf5KsrRfR4KPSJdUVd5ul6QhI+JRMltoW+OjXcBBz
-N1Sh8QcacN0cNK54/q8Pk7mKP4AJSMxvBegcMG2L+PUWoZz9b5FM6BYyu1NFXBfw
-OHDB0KUjXwJGy5uu6dOciirWqQs6dyT2jhomR4dQpZKE+CIJX67BJoiHv5OeuRtl
-oF/VdSipeyIP44M6+NsxdIPPsHTvPB6mpm2qzhaLqEfubXhzL0d+Ej8WrqqKtuW8
-cXJzi3Zw22zH/jlUVIKmm9EnGMi4znzbkHz+J72+nnH/f7900ZdSqyV7RYDPRp6f
-/uDlpw8XSlaSw2TCPidmlwX38dz0vNuRcRBKtkLJVk2cactPaLfFH4smwfJs1aLF
-o0hpsQcioGX739SY0F6So/q7pWprXqbakS2s0aaXd+HedZMRPwmFOT3cd5L80v2H
-tuyuqXi6jhAiS2/kHqJV6vVkbc6vWI3Cfb18Ctyo+RxW7N15MPo7GhJZB1JbhqpG
-ymgpf7J9
-=reve
+iQGzBAEBCgAdFiEEj6zH4HNa/2SUFHneZ3azPalyr9EFAmN9KtoACgkQZ3azPaly
+r9HzLQwAzrKOf0/q37qLcHjujjq2aAV0TwxeFJisQjpfWQhn1UI1TOBX993euTNy
+uTDdB62ETIDceY8XTVknpF5KgIBxLB78rTZNuULJH5qkpsflbCq6utuS60cKvlah
+i38/uu919KpZK34Soptu0AMleA4xCjhbObG8y8+DUtWmt5RUTE2FGT6KOp1VXdD5
+i2TB9nwlnJck+UYbmUGP/DLwNTHRpH6jlOFkH5OCwSadszvYok9VEjwcPmdASHeB
+OPoDza92OJU8MvnVmxltEP43oRHFsfWStENGSgtN5Z1rDMV55+JIcPyfGwsDQrBx
+a+rGq34lJ8it5WSzJf5gHyITe5itIW4kVza/NPqVvlDNTsjkgk56kZOiHuPnIInn
+X8F8BqmWVEyobQZXqFT0tT0uHdJFJpsnqbGYFoEHyBBSWolhYIf+xjMuRfCIKFfz
+nxilyBARX6Adh4wotKtRqPluwldszy6ONHR4498i2BCs46cpcLzM0QoeWEPGq9xg
+VZtXDLm8
+=C/D1
 -----END PGP SIGNATURE-----

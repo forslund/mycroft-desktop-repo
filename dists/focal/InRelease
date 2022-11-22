@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: focal
-Date: Thu, 31 Dec 2020 14:54:40 UTC
+Date: Tue, 22 Nov 2022 20:02:29 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop
@@ -40,15 +40,15 @@ SHA256:
  77bbea9ced79dddabf2d6695de5b9afa6798d2574342a9874af68b5d9c9cdc97 131 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEj6zH4HNa/2SUFHneZ3azPalyr9EFAl/t5jMACgkQZ3azPaly
-r9HYAAv+KS/qfzYxlDwIUaNqxUwQT3IM2iVM195YtGHvnondLxAkKasUE0E2OW+6
-+Um+kbCGCy12q+PoCezwwDe6E15sdbzMyGXOpqFhnVYxO47el4CsaiASTnl/cRP/
-1yLF3y4YFaEeOCQ9lW6cKn2Aj4JI0z3V2qY2gC8uyzNSDQijxQKVd1y5OcEI3/3t
-Y76/zQkh9qZdk6BBP8iT655g8o0h3XfcUC9ExSUcReadfXbSBPb4yQEHw9JY/0un
-rbPG2KtWz07qL/im0tAe40DBrgM+OGGaayjYpq/xbV76WGrlvGsyijdN8xCiAxz1
-PueByM6M4HG+ivBQjKZHcl8bHcyaotoyB1MybtH//eb0w95VB8ktKup9CmcttxBD
-8+xJKasCC5mpOixnFccyfL0iNcz614gRJ7F1xpg4TtMJ4Yt9TNEZ7iQn4KMFrDvR
-m9rSXOe5k5Q07dVplMAvzqQajlJY8p6FDjposGMfYAhlE8fYVN8UbkM0WmbQ44j6
-bv/4c7k2
-=EUVU
+iQGzBAEBCgAdFiEEj6zH4HNa/2SUFHneZ3azPalyr9EFAmN9KtUACgkQZ3azPaly
+r9Fn7QwAkkf01tnvpdDFaqd9Oi4/lzpvX5N6JcGZcOZ6s7hypZ5TXt7UqGZbqR16
+yhRlG21qWBiiZva1MeMY0gXdqq/RfJ8GAtCCuUlASZJ9olc1InB+4vcDNUtdV5f4
+K+YpO5u2wt9G6hg14K5JBtSWWhydbsyURh7iJ7qsl6npI3eXDKgeEXSAQV7HiHsn
+c6YyGFiR1OPX3SoAnH7ZtEc5QpEVUZIDgfgtJjFjnx54G0k4alz5G7mPxaO1Tf49
+QVpf4vdCp6Kuy/bbvNXJESnR4/pDHFFzPnpPjzfAZfof5ioZbz9dM7E80qGwMYmg
+j3IJQp/4zEYWs7b7pgvGMuJbbMIvv4rRsh9VqcKt08u1MUWQZvhCRwYMqsQl3SYm
+BPHJbLvd/nxpoKvP/uQDmmEKy8EwRKyK4BaAR9UfItOCTeEKyXVNb8cj7WnWmzHx
+/U0JHoFuFD6eIODKLVZBLqwFfT24kWLoXIKDu+D6d5i7EYZkIxUQp4+vueyoCTwv
+a/WhWzVf
+=SXWv
 -----END PGP SIGNATURE-----

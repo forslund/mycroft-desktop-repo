@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Mycroft-desktop
 Label: Mycroft-desktop
 Codename: bionic
-Date: Thu, 31 Dec 2020 14:54:51 UTC
+Date: Tue, 22 Nov 2022 20:02:20 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Mycroft-desktop
@@ -40,15 +40,15 @@ SHA256:
  77bbea9ced79dddabf2d6695de5b9afa6798d2574342a9874af68b5d9c9cdc97 131 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEj6zH4HNa/2SUFHneZ3azPalyr9EFAl/t5jsACgkQZ3azPaly
-r9G5RQwAz4+9pKsu/Mb+PEYBe6p6TQ7hHA0G4+nMoUpEct3NI5JgIfz5v9BBYWAJ
-vXeJCTpjmqYOj314snCPcBlw4mvixVOBZTe8CYSzUajemRFkNzO02vMbOxl+1Xbo
-wkOM8AUEcPs/qHGqBuOTug93tk5/icCZYJVfJjCWcCWqGf+bqWYZ3lEYGcsoKwKL
-MYvydlC497wwRiLSAToJGsNvsqZC3BHTpor812xGvyU0FxxLAOt7KQ3IwMMJ7XWn
-nTGquVDx94KmbTTIR/UePauK9dtQGBpBQ7ZhgYSuxEhEU1E9UnZBkMcYFpR74TzM
-/N5Lpwk0P+kX/r9yFfd7ngpKdDmJC/sYvmq2N2A4zCCgGAATrkEIEdDb28Zvo3Af
-XpEDGv7GcYwyvxTSpjg5bwx98+NMKf405RmBPnKYN8m/kUXL9GrxN0eWPBY0KB9J
-kLNH9I6rOo0tNH3Kg4aKwIcbjXnkGWbUNybIMW8woeENVGpCoSQQpcURlqO5FQv+
-uAX5LbsN
-=RJRL
+iQGzBAEBCgAdFiEEj6zH4HNa/2SUFHneZ3azPalyr9EFAmN9Ks0ACgkQZ3azPaly
+r9E6LQv+MT+l1VFcGTzZOdDmuQHTUpw6ywSDEfCGhY3p6R2Nprgai0L2Di5Gxov6
+TY2wshul7zqCkJLbi00hINCVVsJq9rCNEunXrv00JLQVPDG3dnJIAFGiG/ywa7uB
+lpHgnB/OgeOuzbtzppPCOoCJmshRkZD3htVn+0xuYWmGgJzDlQ1ZLCwW59tWRGmn
+uCRn+t2lcx77/MfRvYDNWdtvdQvhTqmWulkS6Ld8TnT3fzqDDoFiLqipCcj96JlM
+TEFfvzF/F+bo+AQ9FAertw5VU9G/UtGUiAwjV+EFB7CJfaXtRKHpGI9J+a0n5igI
+o0ubtG4oCMg8aBGlrZ9hfVDZWevbK8S1stLSHWJYD++R6ewRTQsjJgeLrzo/2/Zr
+oXc/HHWJhSNFtXuxi6VRmbBZpe62+49xBHfTUujCSxEjFCI3FltTIb8nyXsEjfGO
+arkNQQS1Hb9Iz6RJcHp05//lG0y0Q0stjHorwcx6AJZbP/gWAasKF7GzVdPGYRtV
+D9YmKD1I
+=vOqa
 -----END PGP SIGNATURE-----
